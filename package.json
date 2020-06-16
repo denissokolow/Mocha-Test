@@ -1,0 +1,11 @@
+{
+  "name": "should",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "mocha": "^8.0.1",
+    "should": "^13.2.3"
+  }
+}
